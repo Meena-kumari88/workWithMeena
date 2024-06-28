@@ -15,3 +15,11 @@ body {
 .image{
     text-align: center;
 }
+
+.my-text{
+    text-align: center;
+    font-size: 2rem;
+}
+.myimage{
+    width: 30%;
+}
